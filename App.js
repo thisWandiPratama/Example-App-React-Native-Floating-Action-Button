@@ -24,8 +24,7 @@ export default class App extends Component {
           <Image
             //We are making FAB using TouchableOpacity with an image
             //We are using online image here
-             source={{
-uri:'http://aboutreact.com/wp-content/uploads/2018/08/bc72de57b000a7037294b53d34c2cbd1.png',
+             source={{ uri:'https://github.com/thisWandiPratama/Example-App-React-Native-Floating-Action-Button/blob/master/plus.png',
             }}
             //You can use you project image Example below
             //source={require('./images/float-add-icon.png')}
